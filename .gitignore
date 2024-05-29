@@ -1,0 +1,6 @@
+myProject/**/__pycache__/
+
+myProject/credentials.json
+myProject/db.sqlite3
+
+myVenv/
